@@ -1,5 +1,5 @@
 # 💫 About Me:
- RahulRR-10/README.md<br><br>    👋 Hi, I’m @RahulRR-10<br>    👀 Exploring modern full‑stack patterns and best practices<br>    🌱 Iterating on EchoSQL, ExamFlow, and MedAssist for real‑world problem solving.<br> Open to collaborating on impactful builds and better developer experience.<br><br>
+ RahulRR-10/README.md<br><br>    👋 Hi, I’m @RahulRR-10<br>    👀 Exploring modern full‑stack patterns and best practices<br>    🌱 Iterating on EchoSQL, ExamFlow, and MedAssist for real‑world problem solving.<br> 🌐Open to collaborating on impactful builds and better developer experience.<br><br>
 
 
 # 💻 Tech Stack:
