@@ -13,6 +13,13 @@ I build **on-device AI systems, real-time ML pipelines, and developer tools** �
 - 📡 **AI-Based Fiber Optic Fault Detection** — CNN + BiLSTM + attention model for OTDR trace analysis (~97.5% accuracy), with a React interface for fault localization. 🥈 Runner-up, IBM × RVCE Project Showcase.
 - 🛡️ **[SentinelDDoS](https://github.com/RahulRR-10/SentinelDDoS)** — DDoS detection & mitigation platform with entropy-based anomaly detection and an attack simulator. 📄 Published in IEEE CSITSS.
 
+---
+ 
+**🧪 Interactive Demos**
+ 
+- 🔢 **[Tupper's Self-Referential Formula — Text Plotter](https://rahulrr-10.github.io/tupper-formula-plotter/)** — type any text, watch it get encoded into a single (genuinely enormous) integer k, then re-plotted from that k using exact BigInt arithmetic, a live, in-browser demonstration of the formula that "draws itself."
+---
+
 **Tech Stack** ⚙️
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
