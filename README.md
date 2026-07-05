@@ -4,7 +4,7 @@
 
 </div>
 
-I build **on-device AI systems, real-time ML pipelines, and developer tools** — from multimodal search engines to low-latency coding agents.
+I build **on-device AI systems, real-time ML pipelines, and developer tools**, from multimodal search engines to low-latency coding agents.
 
 - 🧠 **[Axiom](https://github.com/RahulRR-10/Axiom)** — local-first desktop app that turns a folder of PDFs/notes into a searchable, annotatable knowledge base, with hybrid FTS5 + semantic search (LanceDB) and vault-grounded AI Q&A. No cloud, no subscriptions.
 - 📷 **[Pixie](https://github.com/RahulRR-10/Pixie)** — on-device multimodal photo search system: face embeddings (InsightFace) + object detection (YOLOv8/v10) + CLIP for natural-language photo retrieval, with DBSCAN face clustering. 🏆 Winner, Samsung PRISM GenAI Hackathon.
