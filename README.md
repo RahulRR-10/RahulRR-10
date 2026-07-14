@@ -1,6 +1,6 @@
 <div align="center">
 
-**Software Engineer, AI/ML.** | [LinkedIn](https://www.linkedin.com/in/rahulraikar10/) · [GitHub](https://github.com/RahulRR-10)
+**Software Engineer** | [LinkedIn](https://www.linkedin.com/in/rahulraikar10/) · [GitHub](https://github.com/RahulRR-10)
 
 </div>
 
