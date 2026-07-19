@@ -8,7 +8,7 @@ I build **on-device AI systems, real-time ML pipelines, and developer tools**, f
 
 - 🧠 **[Axiom](https://github.com/RahulRR-10/Axiom)** — local-first desktop app that turns a folder of PDFs/notes into a searchable, annotatable knowledge base, with hybrid FTS5 + semantic search (LanceDB) and vault-grounded AI Q&A. No cloud, no subscriptions.
 - 📷 **[Pixie](https://github.com/RahulRR-10/Pixie)** — on-device multimodal photo search system: face embeddings (InsightFace) + object detection (YOLOv8/v10) + CLIP for natural-language photo retrieval, with DBSCAN face clustering. 🏆 Winner, Samsung PRISM GenAI Hackathon.
-- ⌨️ **PhantomKey** — low-latency AI-assisted coding input system: Whisper (INT8) + GPT-4o/5.x turn spoken/screen problems into code, injected via Win32 keyboard hooking in <1ms. 🏆 Winner, Zenith Hackathon.
+- ⌨️ **[PhantomKey](https://github.com/RahulRR-10/PhantomKey)** — low-latency AI-assisted coding input system: Whisper (INT8) + GPT-4o/5.x turn spoken/screen problems into code, injected via Win32 keyboard hooking in <1ms. 🏆 Winner, Zenith Hackathon.
 - 🕸️ **[WeaveClaw](https://github.com/RahulRR-10/RVCE_WeaveClaw)** — conversational automation engine running a local Qwen3-Coder-30B LLM to turn natural language into on-device automations, with a Flutter companion app.
 - 📡 **AI-Based Fiber Optic Fault Detection** — CNN + BiLSTM + attention model for OTDR trace analysis (~97.5% accuracy), with a React interface for fault localization. 🥈 Runner-up, IBM × RVCE Project Showcase.
 - 🛡️ **[SentinelDDoS](https://github.com/RahulRR-10/SentinelDDoS)** — DDoS detection & mitigation platform with entropy-based anomaly detection and an attack simulator. 📄 Published in IEEE CSITSS.
